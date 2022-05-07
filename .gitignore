@@ -1,4 +1,4 @@
 *.log
 /dir/
 status/dir
-status/staticcopy
+status/staticcopy.txt
